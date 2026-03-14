@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Auth from "./pages/Auth";
 import Checkout from "./pages/Checkout";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 
 import "./App.css";
 import AuthProvider from "./context/AuthContext";
